@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bba5acd2-f765-488c-a16a-2c71267f1dce" name="Changes" comment="tutorial/handle-errors">
-      <change afterPath="$PROJECT_DIR$/hellos/hellos.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomGreeting/randomGreeting.go" afterDir="false" />
+    <list default="true" id="bba5acd2-f765-488c-a16a-2c71267f1dce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goErrors/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/goErrors/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hello/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/world/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/world/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +50,13 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/home/lab/Documents/go",
+    "last_opened_file_path": "/home/lab",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.selected.configurable": "go.vgo",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,10 +100,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tutorial/handle-errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial/handle-errors" />
+    <MESSAGE value="tutorial/handle-errors&#10;removed go.mod, when working in $GOPATH" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutorial/handle-errors&#10;removed go.mod, when working in $GOPATH" />
   </component>
   <component name="VgoProject">
-    <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
   </component>
 </project>
