@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bba5acd2-f765-488c-a16a-2c71267f1dce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellos/hellos.go" beforeDir="false" afterPath="$PROJECT_DIR$/hellos/hellos.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +103,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tutorial/handle-errors" />
     <MESSAGE value="tutorial/handle-errors&#10;removed go.mod, when working in $GOPATH" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial/handle-errors&#10;removed go.mod, when working in $GOPATH" />
+    <MESSAGE value="enabled go modules in Goland" />
+    <option name="LAST_COMMIT_MESSAGE" value="enabled go modules in Goland" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

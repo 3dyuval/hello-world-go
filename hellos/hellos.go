@@ -1,6 +1,8 @@
 package hellos
 
-import "fmt"
+import (
+	"myprojectgo/randomGreeting"
+)
 
 /*
 	This is a package without a go.mod.
@@ -9,6 +11,15 @@ import "fmt"
 	which is declared $GOPATH
 */
 
-func MyUtilityFunction() {
-	fmt.Println("This is a utility function")
+func Hellos(names []string) (map[string]string, error) {
+
+	messages := make(map[string]string)
+	for _, name := range names {
+		message, err := randomGreeting.RandomGreeting(name)
+		if err != nil {
+			return nil, err
+		}
+		messages[name] = message
+	}
+	return messages, nil
 }
