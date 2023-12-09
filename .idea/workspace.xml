@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bba5acd2-f765-488c-a16a-2c71267f1dce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/goErrors/goErrors.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/go.iml" afterDir="false" />
+    <list default="true" id="bba5acd2-f765-488c-a16a-2c71267f1dce" name="Changes" comment="tutorial/handle-errors">
+      <change afterPath="$PROJECT_DIR$/hellos/hellos.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomGreeting/randomGreeting.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goErrors/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/goErrors/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hello/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/world/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/world/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2Z9whGmibX0TbyAfcZ6Kffyd86M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +53,7 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "true",
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
@@ -56,7 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,8 +72,8 @@
       <recent name="$PROJECT_DIR$/world" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/goErrors" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/goErrors" />
       <recent name="$PROJECT_DIR$/main" />
       <recent name="$PROJECT_DIR$/world" />
     </key>
@@ -86,6 +93,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tutorial/handle-errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutorial/handle-errors" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>

@@ -1,3 +1,3 @@
-module github.com/3dyuval/goErrors
+module myprojectgoErrors
 
 go 1.21.5
